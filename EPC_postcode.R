@@ -361,7 +361,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2007, title = "2007", data = getMapData(m))
 m
 
 ## save html to png
@@ -397,7 +397,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2008, title = "2008", data = getMapData(m))
 m
 
 ## save html to png
@@ -433,7 +433,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2009, title = "2009", data = getMapData(m))
 m
 
 ## save html to png
@@ -470,7 +470,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2010, title = "2010", data = getMapData(m))
 m
 
 ## save html to png
@@ -507,7 +507,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2011, title = "2011", data = getMapData(m))
 m
 
 ## save html to png
@@ -544,7 +544,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2012, title = "2012", data = getMapData(m))
 m
 
 ## save html to png
@@ -581,7 +581,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2013, title = "2013", data = getMapData(m))
 m
 
 ## save html to png
@@ -618,7 +618,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2014", data = getMapData(m))
 m
 
 ## save html to png
@@ -655,7 +655,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2015, title = "2015", data = getMapData(m))
 m
 
 ## save html to png
@@ -692,7 +692,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2016, title = "2016", data = getMapData(m))
 m
 
 ## save html to png
@@ -729,7 +729,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2017, title = "2017", data = getMapData(m))
 m
 
 ## save html to png
@@ -766,7 +766,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2018, title = "2018", data = getMapData(m))
 m
 
 ## save html to png
@@ -803,7 +803,7 @@ m <- leaflet() %>%
               #   bringToFront = TRUE),
               # label = lapply(labels, HTML)
   ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
+  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2019, title = "2019", data = getMapData(m))
 m
 
 ## save html to png
@@ -813,42 +813,3 @@ webshot("temp2019.html", file = "EPC_2019.png",
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#TEST
-m <- leaflet() %>%
-  addProviderTiles(providers$CartoDB.Positron) %>%
-  setView(lng=-1.49,lat=53.86, zoom = 11) %>% #base map is centred on Leeds
-  addPolygons(data = leeds_data,
-              weight = 1,
-              smoothFactor = 0.5,
-              color = "grey",
-              fillOpacity = 0.8,
-              fillColor = pal(leeds_data$median_E_efficiency_2019)#,
-              # highlight = highlightOptions(
-              #   weight = 5,
-              #   color = "#666666",
-              #   fillOpacity = 0.7,
-              #   bringToFront = TRUE),
-              # label = lapply(labels, HTML)
-  ) %>%
-  addLegend(position = "bottomleft", pal = pal, values = leeds_data$median_E_efficiency_2014, title = "2019", data = getMapData(m))
-m
-
-## save html to png
-saveWidget(m, "test2019.html", selfcontained = FALSE)
-webshot("test2019.html", file = "TEST_EPC_2019.png",
-        cliprect = "viewport")
